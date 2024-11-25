@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer science student specializing in web development, with a strong focus on designing and developing modern, responsive, and user-friendly applications. I have experience in both frontend and backend technologies, and I am passionate about building scalable, efficient, and aesthetically pleasing digital solutions. My expertise includes frameworks like Angular and libraries such as Tailwind CSS, which I use to create seamless user experiences.</h3>
 <div>
   <img align="centre" width="350" height="350px" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"/>
-  <img width="350px" height="35px" src="https://camo.githubusercontent.com/257be3d6bcca5cc7f83ec7695d8446ea38dc6cf936700fd992f8d84c99fd4277/68747470733a2f2f736f2d646576656c6f706d656e742e6f72672f77702d636f6e74656e742f75706c6f6164732f323032312f31312f66756c6c2d737461636b2d646576656c6f706d656e742e676966"  />
+  <img width="350px" height="350px" src="https://camo.githubusercontent.com/257be3d6bcca5cc7f83ec7695d8446ea38dc6cf936700fd992f8d84c99fd4277/68747470733a2f2f736f2d646576656c6f706d656e742e6f72672f77702d636f6e74656e742f75706c6f6164732f323032312f31312f66756c6c2d737461636b2d646576656c6f706d656e742e676966"  />
   
 </div>
 
